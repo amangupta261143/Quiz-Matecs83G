@@ -1,0 +1,1 @@
+import{_ as e,d as t}from"./quiz.functions-kECs44OI.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{"data-slot":`skeleton`,className:t(`animate-pulse motion-reduce:animate-none rounded-md bg-accent`,e),...r})}export{r as t};
